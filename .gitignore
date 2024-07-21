@@ -38,6 +38,7 @@ out/
 
 # properties
 application-db.properties
+application-file.properties
 
 # wallet
 Wallet_todoapp/
