@@ -10,6 +10,18 @@ import com.amazonaws.auth.BasicAWSCredentials;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3ClientBuilder;
 
+/**
+* @packageName    : com.todo.config
+* @fileName        : S3Config.java
+* @author        : leejongseop
+* @date            : 2024.07.21
+* @description            :
+* ===========================================================
+* DATE              AUTHOR             NOTE
+* -----------------------------------------------------------
+* 2024.07.21        leejongseop       최초 생성
+*/
+
 @Configuration
 public class S3Config {
 
